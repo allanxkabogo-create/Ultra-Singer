@@ -1,0 +1,11 @@
+torch>=2.1.0
+torchaudio>=2.1.0
+descript-audio-codec==1.0.0
+diffusers
+transformers
+accelerate
+montreal-forced-aligner
+librosa
+tensorboard
+wandb
+amphion  # Optional, but good for reference components
